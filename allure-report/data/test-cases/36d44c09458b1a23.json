@@ -1,0 +1,225 @@
+{
+  "uid" : "36d44c09458b1a23",
+  "name" : "Learn more about car safety Link Test",
+  "fullName" : "Volvo Test Case.Learn more about car safety Link Test",
+  "historyId" : "b6f1a4238e7873e66ba9f0b85a07c3ca",
+  "time" : {
+    "start" : 1636018460779,
+    "stop" : 1636018474394,
+    "duration" : 13615
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1636018460784,
+        "stop" : 1636018470748,
+        "duration" : 9964
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8de26d1fb0b95648",
+        "name" : "Request",
+        "source" : "8de26d1fb0b95648.json",
+        "type" : "application/json",
+        "size" : 74
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1636018470751,
+        "stop" : 1636018471014,
+        "duration" : 263
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "df3cb3a67d522190",
+        "name" : "Request",
+        "source" : "df3cb3a67d522190.json",
+        "type" : "application/json",
+        "size" : 66
+      }, {
+        "uid" : "2da3753d29e603cc",
+        "name" : "Response",
+        "source" : "2da3753d29e603cc.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/cd577c1f-fb67-4eee-87ad-420f6d7f4cc9/click",
+      "time" : {
+        "start" : 1636018471036,
+        "stop" : 1636018471615,
+        "duration" : 579
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1636018471617,
+        "stop" : 1636018471716,
+        "duration" : 99
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e09aec7ecf76f97f",
+        "name" : "Request",
+        "source" : "e09aec7ecf76f97f.json",
+        "type" : "application/json",
+        "size" : 72
+      }, {
+        "uid" : "82e69178c28eaa22",
+        "name" : "Response",
+        "source" : "82e69178c28eaa22.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/5292a326-ea15-4c32-9051-84b97f45be19/click",
+      "time" : {
+        "start" : 1636018471721,
+        "stop" : 1636018474115,
+        "duration" : 2394
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1636018474116,
+        "stop" : 1636018474357,
+        "duration" : 241
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7a2419741f04c492",
+        "name" : "Request",
+        "source" : "7a2419741f04c492.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "43049ceb10f42f29",
+        "name" : "Response",
+        "source" : "43049ceb10f42f29.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1636018474362,
+        "stop" : 1636018474389,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c1dd4de6d255f250",
+        "name" : "Request",
+        "source" : "c1dd4de6d255f250.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "a9c2fe6a65640791",
+        "name" : "Response",
+        "source" : "a9c2fe6a65640791.json",
+        "type" : "application/json",
+        "size" : 93
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 9,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Volvo Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "Volvo Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "Learn more about car safety Link Test"
+  }, {
+    "name" : "package",
+    "value" : "Volvo Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36d44c09458b1a23.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

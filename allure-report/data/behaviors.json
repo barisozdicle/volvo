@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Iframe must appear",
+    "uid" : "fa2e8b6d13e34d77",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636018506063,
+      "stop" : 1636018518780,
+      "duration" : 12717
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  }, {
+    "name" : "Learn more about car safety Link Test",
+    "uid" : "36647e78e0ad7a73",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1636018506064,
+      "stop" : 1636018519254,
+      "duration" : 13190
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-95.0.4638.69" ]
+  } ]
+}

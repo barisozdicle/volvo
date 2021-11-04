@@ -1,0 +1,235 @@
+{
+  "uid" : "36647e78e0ad7a73",
+  "name" : "Learn more about car safety Link Test",
+  "fullName" : "Volvo Test Case.Learn more about car safety Link Test",
+  "historyId" : "b6f1a4238e7873e66ba9f0b85a07c3ca",
+  "time" : {
+    "start" : 1636018506064,
+    "stop" : 1636018519254,
+    "duration" : 13190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1636018506065,
+        "stop" : 1636018515836,
+        "duration" : 9771
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f675b1ae0ac20422",
+        "name" : "Request",
+        "source" : "f675b1ae0ac20422.json",
+        "type" : "application/json",
+        "size" : 74
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1636018515837,
+        "stop" : 1636018516124,
+        "duration" : 287
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2fbe0b89e63865db",
+        "name" : "Request",
+        "source" : "2fbe0b89e63865db.json",
+        "type" : "application/json",
+        "size" : 66
+      }, {
+        "uid" : "61d30f744f61865f",
+        "name" : "Response",
+        "source" : "61d30f744f61865f.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/f2bd4205-0d95-46a9-a80b-6c0c13c29a19/click",
+      "time" : {
+        "start" : 1636018516130,
+        "stop" : 1636018516653,
+        "duration" : 523
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1636018516654,
+        "stop" : 1636018516735,
+        "duration" : 81
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9c67cea70f434fc8",
+        "name" : "Request",
+        "source" : "9c67cea70f434fc8.json",
+        "type" : "application/json",
+        "size" : 72
+      }, {
+        "uid" : "363adb9f2151f940",
+        "name" : "Response",
+        "source" : "363adb9f2151f940.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/42b0ab38-737b-4cb9-9eaf-573884994d3e/click",
+      "time" : {
+        "start" : 1636018516740,
+        "stop" : 1636018519087,
+        "duration" : 2347
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1636018519089,
+        "stop" : 1636018519138,
+        "duration" : 49
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3e826c0f7dd85ff",
+        "name" : "Request",
+        "source" : "3e826c0f7dd85ff.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "896cb9e3bf7e9f70",
+        "name" : "Response",
+        "source" : "896cb9e3bf7e9f70.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1636018519141,
+        "stop" : 1636018519249,
+        "duration" : 108
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6ee1f3d4d4e9126f",
+        "name" : "Request",
+        "source" : "6ee1f3d4d4e9126f.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "99eae8b649f4344f",
+        "name" : "Response",
+        "source" : "99eae8b649f4344f.json",
+        "type" : "application/json",
+        "size" : 93
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 9,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Volvo Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "Volvo Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "Learn more about car safety Link Test"
+  }, {
+    "name" : "package",
+    "value" : "Volvo Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-95.0.4638.69"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "36d44c09458b1a23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636018460779,
+        "stop" : 1636018474394,
+        "duration" : 13615
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36647e78e0ad7a73.json",
+  "parameterValues" : [ "chrome-95.0.4638.69" ]
+}

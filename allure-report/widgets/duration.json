@@ -1,0 +1,21 @@
+[ {
+  "uid" : "fa2e8b6d13e34d77",
+  "name" : "Iframe must appear",
+  "time" : {
+    "start" : 1636018506063,
+    "stop" : 1636018518780,
+    "duration" : 12717
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36647e78e0ad7a73",
+  "name" : "Learn more about car safety Link Test",
+  "time" : {
+    "start" : 1636018506064,
+    "stop" : 1636018519254,
+    "duration" : 13190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

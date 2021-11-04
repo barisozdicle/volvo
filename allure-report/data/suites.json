@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Videos",
+    "children" : [ {
+      "name" : "Iframe must appear",
+      "uid" : "fa2e8b6d13e34d77",
+      "parentUid" : "37f4ca38207c001b33332bac932b04aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636018506063,
+        "stop" : 1636018518780,
+        "duration" : 12717
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
+    } ],
+    "uid" : "37f4ca38207c001b33332bac932b04aa"
+  }, {
+    "name" : "Volvo Test Case",
+    "children" : [ {
+      "name" : "Learn more about car safety Link Test",
+      "uid" : "36647e78e0ad7a73",
+      "parentUid" : "0cd2af885fb17f3ed581303b35ed6b7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1636018506064,
+        "stop" : 1636018519254,
+        "duration" : 13190
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-95.0.4638.69" ]
+    } ],
+    "uid" : "0cd2af885fb17f3ed581303b35ed6b7e"
+  } ]
+}
